@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ic_launcher_bg_height">200dp</dimen>
+    <dimen name="ic_launcher_bg_width">133dp</dimen>
+    <dimen name="account_pages_root_padding">20dp</dimen>
+    <dimen name="login_btn_tv_padding_top_bottom">10dp</dimen>
+    <dimen name="login_btn_other_options_margin_top">15dp</dimen>
+    <dimen name="ic_alert_circle_dimension">24dp</dimen>
+    <dimen name="zero_size">0dp</dimen>
+</resources>

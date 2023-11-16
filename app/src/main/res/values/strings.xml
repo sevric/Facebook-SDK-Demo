@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Facebook SDK Demo</string>
+
+    <!--Views texts-->
+    <string name="btn_login">Login</string>
+    <string name="btn_tv_forgot_your_password">Forgot your password?</string>
+    <string name="btn_tv_register">Register</string>
+    <string name="btn_reset_password">Reset password</string>
+    <string name="btn_back_to_login">Back to login</string>
+
+    <!--Hint texts-->
+    <string name="hint_enter_your_email">Enter your email</string>
+    <string name="hint_enter_your_password">Enter your password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
 </resources>
